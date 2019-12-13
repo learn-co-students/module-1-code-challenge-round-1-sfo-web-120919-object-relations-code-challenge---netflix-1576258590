@@ -1,3 +1,5 @@
+
+require 'pry'
 # require and load the environment file
 require_relative '../config/environment.rb'
 
